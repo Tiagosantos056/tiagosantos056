@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center"> Olá, eu sou Tiago < FullStack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! </h2>
 </div>
 
-<p align="center">
-  <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
-</p>
 
 <p align="center">
 	<a href="https://github.com/tiagosantos056"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
