@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </div><br>
 
 <div align="center">
-<p align="center"><img height="200" width=55% src="https://github-readme-stats.vercel.app/api?username=Tiagosantos056&show_icons=true&theme=gotham&title_color=07EE46&text_color=07EE46&bg_color=000000&include_all_commits=false&count_private=true&disable_animations=true&hide_progress=true" alt="Tiagosantos056" />
+<p align="center"><img height="200" width=53% src="https://github-readme-stats.vercel.app/api?username=Tiagosantos056&show_icons=true&theme=gotham&title_color=07EE46&text_color=07EE46&bg_color=000000&include_all_commits=false&count_private=true&disable_animations=true&hide_progress=true" alt="Tiagosantos056" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagosantos056&layout=compact&langs_count=10&theme=radical&hide_progress=true&&title_color=07EE46&text_color=07EE46&bg_color=000000" alt="Tiagosantos056" /></p> <br><br>
 
 
