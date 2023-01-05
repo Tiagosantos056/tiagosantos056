@@ -45,13 +45,11 @@ Here are some ideas to get you started:
   <img align="center" alt="INTELLIJ" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="POSTGRESQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div><br>
-
 <div align="center">
+	
 <p align="center"><img height="200" width=53% src="https://github-readme-stats.vercel.app/api?username=Tiagosantos056&show_icons=true&theme=gotham&title_color=07EE46&text_color=07EE46&bg_color=000000&include_all_commits=false&count_private=true&disable_animations=true&hide_progress=true" alt="Tiagosantos056" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagosantos056&layout=compact&langs_count=10&theme=radical&hide_progress=true&&title_color=07EE46&text_color=07EE46&bg_color=000000" alt="Tiagosantos056" /></p> <br><br>
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Tiagosantos056&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46) 
+ 
 
 ##
  
