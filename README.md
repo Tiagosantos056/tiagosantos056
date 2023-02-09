@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFD6D4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tiago+Santos;I'm+a+fullstack+developer;I'm+25+years+old;I+from+Brasília-DF;I+formed+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)<br><br>
 
 
-<p align="center"> <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" /> </p>
 
 <p align="center">
 	<a href="https://github.com/tiagosantos056"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
