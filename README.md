@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/tiagoribeiro056/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-<p align="center">📗Quanto mais aprendo, mais tenho🍀</p>
 
 <div align="center" style="display: inline_block"><br>
 
