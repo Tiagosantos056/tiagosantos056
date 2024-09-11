@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="https://github.com/tiagosantos056"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tiagoribeirodossantos/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/tiagoribeiro056/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 
